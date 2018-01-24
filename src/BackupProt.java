@@ -1,10 +1,9 @@
 
 /**
  * Protokół implementujący komunikację mięzy serwerem a klientem
- * @author malic
  *
  */
-public class CloudProtocol {
+public class BackupProt {
 	
 static final String LOGIN = "login"; // server i klient zaimplementowal
 	
